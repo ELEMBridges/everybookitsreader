@@ -1,0 +1,60 @@
+{%- assign lang = page.lang | default: "en" -%}
+{%- assign t = site.data.site[lang] -%}
+{%- assign other_lang = "pt" -%}{%- if lang == "pt" -%}{%- assign other_lang = "en" -%}{%- endif -%}
+{%- assign other = site.pages | where: "ref", page.ref | where: "lang", other_lang | first -%}
+<!doctype html>
+<html lang="{% if lang == 'pt' %}pt-BR{% else %}en{% endif %}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.ref == "index" %}{{ t.name }}{% else %}{{ page.title }} – {{ t.name }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="icon" href="/assets/uploads/2024/03/cropped-versao-quadrado-cor-png-2024-1-270x270.png">
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:image" content="{{ site.url }}{{ t.logo }}">
+  {%- if other %}
+  <link rel="alternate" hreflang="{% if other_lang == 'pt' %}pt-BR{% else %}en{% endif %}" href="{{ site.url }}{{ other.url }}">
+  {%- endif %}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+  <a class="skip" href="#content">{{ t.skip }}</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="{% if lang == 'pt' %}/pt/{% else %}/{% endif %}">
+        <img src="{{ t.logo }}" alt="{{ t.name }}">
+      </a>
+      {%- if other %}
+      <a class="lang-switch" href="{{ other.url }}" hreflang="{{ other_lang }}">{{ site.data.site[other_lang].language_name }}</a>
+      {%- endif %}
+    </div>
+    <nav class="wrap site-nav" aria-label="Menu">
+      <ul>
+        {%- for item in t.menu %}
+        <li><a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.label }}</a></li>
+        {%- endfor %}
+      </ul>
+    </nav>
+  </header>
+
+  <main id="content" class="wrap content">
+    {%- unless page.ref == "index" %}
+    <h1 class="page-title">{{ page.title }}</h1>
+    {%- endunless %}
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <ul class="footer-links">
+        {%- for item in t.footer_links %}<li><a href="{{ item.url }}">{{ item.label }}</a></li>{% endfor %}
+        {%- for item in site.data.site.social %}<li><a href="{{ item.url }}">{{ item.label }}</a></li>{% endfor %}
+      </ul>
+      <p class="grant">{{ t.grant }}</p>
+      <p class="copy">© {{ site.time | date: "%Y" }} {{ t.name }}</p>
+    </div>
+  </footer>
+</body>
+</html>

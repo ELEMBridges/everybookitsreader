@@ -1,0 +1,8 @@
+title: "#EveryBookItsReader"
+description: "A campaign to increase quality content about books, literary works, and oral stories in Wikipedia, Wikidata, Wikimedia Commons, Wikibooks, and Wikisource."
+url: "https://www.everybookitsreader.org"
+lang: en
+markdown: kramdown
+exclude:
+  - README.md
+  - EDITING.md

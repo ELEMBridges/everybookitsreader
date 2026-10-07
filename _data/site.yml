@@ -1,0 +1,39 @@
+# Text that appears on every page (header, menu, footer), in each language.
+# Edit here in Pages CMS under "Site settings".
+en:
+  name: "#EveryBookItsReader"
+  logo: /assets/uploads/2024/03/versao-horizontal-cor-ENG-png-2024.png
+  language_name: English
+  skip: Skip to the content
+  menu:
+    - { label: About, url: /about-us/ }
+    - { label: Leadership Team, url: /leadership-team/ }
+    - { label: FAQs, url: /faq/ }
+    - { label: Press, url: /media/ }
+    - { label: Events, url: /events/ }
+    - { label: Resources, url: /resources/ }
+    - { label: Contact Us, url: /contact-us/ }
+  footer_links:
+    - { label: Attribution, url: /attribution/ }
+    - { label: Contact Us, url: /contact-us/ }
+  grant: "This website is supported by a grant from the Oregon State University Libraries and Press Lundeen Award."
+pt:
+  name: "#CadaLivroSeuPúblico"
+  logo: /assets/uploads/2025/02/Versao_horizontal_cor_POR_png_2024-1.png
+  language_name: Português do Brasil
+  skip: Pular para o conteúdo
+  menu:
+    - { label: Sobre, url: /pt/about-us/ }
+    - { label: Equipe de Liderança, url: /pt/leadership-team/ }
+    - { label: Perguntas Frequentes, url: /pt/faq/ }
+    - { label: Imprensa, url: /pt/media/ }
+    - { label: Eventos, url: /pt/events/ }
+    - { label: Recursos, url: /pt/resources/ }
+    - { label: Contato, url: /pt/contact-us/ }
+  footer_links:
+    - { label: Licença, url: /pt/attribution/ }
+    - { label: Contato, url: /pt/contact-us/ }
+  grant: "Este site é apoiado por um financiamento da Oregon State University Libraries and Press Lundeen Award."
+social:
+  - { label: Twitter, url: "https://twitter.com/Every_Bk" }
+  - { label: LinkedIn, url: "https://www.linkedin.com/company/everybk/" }
