@@ -1,0 +1,99 @@
+# Pages CMS configuration — https://pagescms.org
+# Team members sign in at https://app.pagescms.org to edit the site.
+media:
+  input: assets/uploads
+  output: /assets/uploads
+  categories: [image, document]
+
+content:
+  - name: pages-en
+    label: Pages (English)
+    type: collection
+    path: pages/en
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    view:
+      primary: title
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: body, label: Content, type: rich-text }
+      - { name: lang, type: string, default: en, hidden: true }
+      - { name: ref, label: "Page ID (same in both languages)", type: string, hidden: true }
+      - { name: permalink, label: "Web address", type: string, hidden: true }
+      - { name: layout, type: string, default: default, hidden: true }
+
+  - name: pages-pt
+    label: Páginas (Português)
+    type: collection
+    path: pages/pt
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    view:
+      primary: title
+    fields:
+      - { name: title, label: Título, type: string, required: true }
+      - { name: body, label: Conteúdo, type: rich-text }
+      - { name: lang, type: string, default: pt, hidden: true }
+      - { name: ref, label: "ID da página (igual nos dois idiomas)", type: string, hidden: true }
+      - { name: permalink, label: "Endereço", type: string, hidden: true }
+      - { name: layout, type: string, default: default, hidden: true }
+
+  - name: site-settings
+    label: Site settings (menu, footer) / Configurações
+    type: file
+    path: _data/site.yml
+    format: yaml
+    fields:
+      - name: en
+        label: English
+        type: object
+        fields:
+          - { name: name, label: Site name, type: string }
+          - { name: logo, label: Logo, type: image }
+          - { name: language_name, label: Language name, type: string }
+          - { name: skip, label: Skip-link text, type: string }
+          - name: menu
+            label: Menu
+            type: object
+            list: true
+            fields:
+              - { name: label, type: string }
+              - { name: url, type: string }
+          - name: footer_links
+            label: Footer links
+            type: object
+            list: true
+            fields:
+              - { name: label, type: string }
+              - { name: url, type: string }
+          - { name: grant, label: Footer note, type: text }
+      - name: pt
+        label: Português
+        type: object
+        fields:
+          - { name: name, label: Nome do site, type: string }
+          - { name: logo, label: Logotipo, type: image }
+          - { name: language_name, label: Nome do idioma, type: string }
+          - { name: skip, label: Texto do link "pular", type: string }
+          - name: menu
+            label: Menu
+            type: object
+            list: true
+            fields:
+              - { name: label, type: string }
+              - { name: url, type: string }
+          - name: footer_links
+            label: Links do rodapé
+            type: object
+            list: true
+            fields:
+              - { name: label, type: string }
+              - { name: url, type: string }
+          - { name: grant, label: Nota do rodapé, type: text }
+      - name: social
+        label: Social links
+        type: object
+        list: true
+        fields:
+          - { name: label, type: string }
+          - { name: url, type: string }
