@@ -66,7 +66,6 @@ content:
             fields:
               - { name: label, type: string }
               - { name: url, type: string }
-          - { name: grant, label: Footer note, type: text }
       - name: pt
         label: Português
         type: object
@@ -89,7 +88,6 @@ content:
             fields:
               - { name: label, type: string }
               - { name: url, type: string }
-          - { name: grant, label: Nota do rodapé, type: text }
       - name: social
         label: Social links
         type: object
@@ -97,3 +95,32 @@ content:
         fields:
           - { name: label, type: string }
           - { name: url, type: string }
+
+  - name: team
+    label: Leadership Team / Equipe de Liderança
+    type: file
+    path: _data/team.yml
+    format: yaml
+    fields:
+      - name: members
+        label: Team members
+        type: object
+        list: true
+        fields:
+          - { name: name, label: Name, type: string, required: true }
+          - { name: photo, label: "Photo (square works best)", type: image }
+          - { name: wikimedia_user, label: Wikimedia username, type: string }
+          - name: en
+            label: English
+            type: object
+            fields:
+              - { name: country, label: Country, type: string }
+              - { name: bio, label: Bio, type: text }
+              - { name: book, label: Book recommendation, type: string }
+          - name: pt
+            label: Português
+            type: object
+            fields:
+              - { name: country, label: País, type: string }
+              - { name: bio, label: Biografia, type: text }
+              - { name: book, label: Recomendação de livro, type: string }
