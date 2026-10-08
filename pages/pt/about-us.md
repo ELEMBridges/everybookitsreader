@@ -6,12 +6,29 @@ permalink: /pt/about-us/
 layout: default
 ---
 
-**Every Book Its Reader**, a Wikimedia campaign launched in 2023,  encourages participants to improve and create content about books, literary works and oral stories in Wikipedia, Wikidata, Wikicommons, Wikiquotes, Wikibooks, Wikisource, and other sister projects.
+**Cada Livro Seu Público** é uma campanha Wikimedia, lançada em 2023, que incentiva as pessoas a melhorar e criar conteúdos sobre livros, obras literárias e histórias orais na Wikipédia, Wikidata, Wikimedia Commons, Wikiquote, Wikilivros, Wikisource e outros projetos irmãos.
 
-Under the hashtag **#CadaLivroSeuPúblico** participants are called to contribute during the month of April every year,  to coincide with World Book Day, April 23.
+Com a hashtag **#CadaLivroSeuPúblico**, os participantes contribuem durante o mês de abril de cada ano, coincidindo com o Dia Mundial do Livro, em 23 de abril.
 
-The campaign name is the third law in [Ranganathan’s](https://en.wikipedia.org/wiki/S._R._Ranganathan) [five laws of library science](https://en.wikipedia.org/wiki/Five_laws_of_library_science).
+## De onde vem o nome
 
-The campaign idea and name were conceived in an online conversation in 2022 between three librarians: Laurie Bridges, Nuria Ferran-Ferrer, and Michael David Miller. The first edition of the campaign was held in 2023 by a handful of volunteers, all with ties to libraries, who loved the idea and wanted to make it happen: Lilian Viana, Brazil; Stela Madruga, Brazil; Michael David Miller, Canada; Alejandra Quiroz Hernández, Mexico; Martín Adalberto Tena-Espinoza-de-los-Monteros, Mexico; Nuria Ferran-Ferrer, Catalonia, Spain; Tebogo Khama, Botswana; Lynn Jibril, Botswana.
+"Cada livro seu leitor" é a terceira das [cinco leis da biblioteconomia](https://pt.wikipedia.org/wiki/Cinco_leis_da_biblioteconomia) de [Ranganathan](https://pt.wikipedia.org/wiki/S._R._Ranganathan).
 
-Anyone can organize local and regional events. If you are organizing an event, please add it to the campaign tracking [dashboard](https://outreachdashboard.wmflabs.org/campaigns/everybookitsreader_april_2025/overview). Tag any edits you make during the month of April with the hashtag, #EveryBookItsReader.
+## Como começou
+
+A ideia e o nome da campanha surgiram em uma conversa online em 2022 entre três bibliotecários: Laurie Bridges, Nuria Ferran-Ferrer e Michael David Miller.
+
+A primeira edição, em 2023, foi realizada por um pequeno grupo de voluntários ligados a bibliotecas, que adoraram a ideia e quiseram torná-la realidade:
+
+- Lilian Viana, Brasil
+- Stela Madruga, Brasil
+- Michael David Miller, Canadá
+- Alejandra Quiroz Hernández, México
+- Martín Adalberto Tena Espinoza de los Monteros, México
+- Nuria Ferran-Ferrer, Catalunha, Espanha
+- Tebogo Khama, Botsuana
+- Lynn Jibril, Botsuana
+
+## Participe
+
+Qualquer pessoa pode organizar eventos locais e regionais. Veja em [Eventos](/pt/events/) como adicionar o seu ao painel da campanha e marque as edições que fizer em abril com #CadaLivroSeuPúblico.

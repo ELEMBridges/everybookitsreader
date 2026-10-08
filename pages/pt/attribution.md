@@ -6,10 +6,15 @@ permalink: /pt/attribution/
 layout: default
 ---
 
-![](/assets/uploads/2024/02/CC_BY-SA_3-300x106.png)
+Este site foi criado com a ajuda de muitos voluntários.
 
-This website has been created with the help of many different people.
+## Licença
 
-In addition, this site was built on a powerful, Inspirations based web builder called [BoldGrid](http://www.boldgrid.com). It is running on [WordPress](http://wordpress.org), the most popular content management software online today. Web hosting support is provided by [DreamHost](https://www.dreamhost.com/).
+Salvo indicação em contrário, o conteúdo deste site é compartilhado sob a [licença Creative Commons Atribuição-CompartilhaIgual 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.pt_BR).
 
-Additional functionality provided by: [WP Canvas – Gallery](http://WP Canvas - Gallery)
+![Creative Commons BY-SA](/assets/uploads/2024/02/CC_BY-SA_3-300x106.png)
+
+## Créditos
+
+- Logotipo e materiais gráficos da campanha criados pela artista brasileira Andreia Tiemi, disponíveis no [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:EveryBookItsReader_logos).
+- Este site é hospedado gratuitamente no [GitHub Pages](https://pages.github.com/) e editado com o [Pages CMS](https://pagescms.org/).

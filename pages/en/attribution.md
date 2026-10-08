@@ -6,10 +6,15 @@ permalink: /attribution/
 layout: default
 ---
 
-![](/assets/uploads/2024/02/CC_BY-SA_3-300x106.png)
+This website was created with the help of many volunteers.
 
-This website has been created with the help of many different people.
+## License
 
-In addition, this site was built on a powerful, Inspirations based web builder called [BoldGrid](http://www.boldgrid.com). It is running on [WordPress](http://wordpress.org), the most popular content management software online today. Web hosting support is provided by [DreamHost](https://www.dreamhost.com/).
+Unless otherwise noted, the content on this site is shared under a [Creative Commons Attribution-ShareAlike 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
 
-Additional functionality provided by: [WP Canvas – Gallery](http://WP Canvas - Gallery)
+![Creative Commons BY-SA](/assets/uploads/2024/02/CC_BY-SA_3-300x106.png)
+
+## Credits
+
+- Campaign logo and graphics by Brazilian artist Andreia Tiemi, available on [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:EveryBookItsReader_logos).
+- This site is hosted free on [GitHub Pages](https://pages.github.com/) and edited with [Pages CMS](https://pagescms.org/).

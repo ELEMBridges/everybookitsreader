@@ -6,28 +6,26 @@ permalink: /faq/
 layout: default
 ---
 
-##### **How can I participate?**
+## How can I participate?
 
-Anyone can participate anywhere in the world. During the month of April, save any edits you make to Wikimedia projects with the hashtag #EveryBookItsReader, and your additions and edits will be tracked on the [Wikimedia Hashtags dashboard](https://hashtags.wmcloud.org/).
+Anyone can participate, anywhere in the world. During April, add the hashtag #EveryBookItsReader to the edit summary when you save edits on Wikimedia projects. Your edits will then be tracked on the [Wikimedia Hashtags tool](https://hashtags.wmcloud.org/).
 
-In addition, you can find local, regional, or national events on the [Outreach Dashboard](https://outreachdashboard.wmflabs.org/campaigns/everybookitsreader_april_2025/overview).
+If you're not sure where to begin, see the Oregon State University library guide [Creating and editing Wikipedia articles about books](https://guides.library.oregonstate.edu/wikipediabook).
 
-If you’re not sure where to begin editing, consult this Oregon State University Library Guide: [Creating and editing Wikipedia articles about books](https://guides.library.oregonstate.edu/wikipediabook).
+## How can I host an event?
 
-##### **How can I host an event?**
+Everyone is welcome to organize an event, usually in April, at a library, school, university, bookstore, or online. See [Events](/events/) for how to add it to the campaign dashboard. For tips on organizing, see the [resources](https://artandfeminism.org/resources/getting-started/organize/) from [Art+Feminism](https://artandfeminism.org/).
 
-Anyone and everyone is welcome to organize an event for #EveryBookItsReader. These events are usually held in April at libraries, schools, universities, bookstores, or online. We encourage you to add your event to the [April 2025 campaign dashboard](https://outreachdashboard.wmflabs.org/campaigns/everybookitsreader_april_2025/overview). If you are looking for more information about how to organize a local event, we encourage you to use [resources](https://artandfeminism.org/resources/getting-started/organize/)  from [Art+Feminism](https://artandfeminism.org/).
+## How can I use the logo?
 
-##### **How can I use the logo?**
+Anyone can use the campaign logo, which is shared under a Creative Commons Attribution 2.0 license. The logo and companion materials were created by Brazilian artist Andreia Tiemi in several languages and can be [downloaded from Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:EveryBookItsReader_logos). Please use the 2024 version.
 
-Anyone can use the campaign logo which has been shared under a Creative Commons Attribution 2.0 license. The logo and companion materials were created by Brazilian artist Andreia Tiemi in several languages and can be [downloaded in Wiki Commons](https://commons.wikimedia.org/wiki/Category:EveryBookItsReader). If there is no logo in the desired language, please send us an email and we will do our best to provide a version.
+If there's no logo in your language, email us and we'll do our best to make one.
 
-A new visual identity was developed for the campaign in 2024. We recommend that you use the 2024 version.
+## How can I get funding?
 
-##### **How can I get funding?**
+We're volunteers and don't have funding to distribute. You can apply for a [Wikimedia Foundation Rapid Fund](https://meta.wikimedia.org/wiki/Grants:Project/Rapid).
 
-We are volunteers and do not have funding to distribute at this time. However, you can seek funding through a [Wikimedia Foundation Rapid Grant](https://meta.wikimedia.org/wiki/Grants:Project/Rapid).
+## Is the campaign on Meta-Wiki?
 
-##### **Where can I find information about the campaign on Meta?**
-
-Although we are using everybookitsreader.org as our central online location for information about #EveryBookitsReader, you can also find [information](https://meta.wikimedia.org/wiki/Every_Book_Its_Reader) on Wikimedia Meta-Wiki.
+Yes. This website is our main home, and there is also an [Every Book Its Reader page](https://meta.wikimedia.org/wiki/Every_Book_Its_Reader) on Wikimedia Meta-Wiki.

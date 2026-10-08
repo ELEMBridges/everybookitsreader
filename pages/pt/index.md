@@ -6,7 +6,9 @@ permalink: /pt/
 layout: default
 ---
 
-## **Planejando 2027**
+Uma campanha para aumentar conteúdos de qualidade sobre livros, obras literárias e histórias orais na Wikipédia, Wikidata, Wikimedia Commons, Wikibooks e Wikisource.
+
+## Planejando 2027
 
 Estamos planejando a próxima campanha #CadaLivroSeuPúblico para abril de 2027. Os detalhes serão compartilhados aqui assim que estiverem prontos.
 
@@ -14,50 +16,21 @@ Enquanto isso, você é sempre bem-vindo(a) para criar e melhorar conteúdos sob
 
 Para as últimas novidades, siga-nos no [LinkedIn](https://www.linkedin.com/company/everybk/).
 
-[Ver eventos anteriores](/pt/events/)
+## Uma campanha, muitos idiomas
 
-![Ukrainian logo](/assets/uploads/2025/02/Versao_quadrado_cor_POR_png_2024-1.png)
+- \#EveryBookItsReader — inglês
+- \#КожнійКнизіСвійЧитач — ucraniano
+- \#Carteașicititorulei — romeno
+- \#CadaLibroSuPúblico — espanhol
+- \#CadaLivroSeuPúblico — português
+- \#ACadaLlibreElSeuPúblic — catalão
+- \#ChaqueLivreSonPublic — francês
+- \#AdOgniLibroIlSuoPubblico — italiano
+- \#Gbogboìwél’ònkàrẹ̀ — iorubá
 
-![](/assets/uploads/2024/02/CAMPANHA-PARTICIPE.jpg)
+## Participe
 
-## **Recursos**
-
-Participe! Promova seu evento usando o logotipo #CadaLivroSeuPúblico.
-
-**[Saiba mais](/pt/resources/)**
-
-![](/assets/uploads/2025/02/Versao_quadrado_cor_POR_png_2024-1.png)
-
-Uma campanha para aumentar conteúdos de qualidade sobre livros, obras literárias e histórias orais na Wikipédia, Wikidata, Wikimedia Commons, Wikibooks e Wikisource.
-
-**#CadaLivroSeuPúblico** Inglês
-
-**#КожнійКнизіСвійЧитач** Ucraniano
-
-**#Carteașicititorulei** Romeno
-
-**#CadaLibroSuPúblico** Espanhol
-
-**#CadaLivroSeuPúblico** Português
-
-**#ACadaLlibreElSeuPúblic** Catalão
-
-**#ChaqueLivreSonPublic** Francês
-
-**#AdOgniLibroIlSuoPubblico** Italiano
-
-**#Gbogboìwél’ònkàrẹ̀** Iorubá
-
-[Saiba mais](/pt/about-us/)
-
-## **Equipe de Liderança**
-
-A campanha foi planejada e organizada por wikimedistas voluntários, apaixonados por livros e histórias, localizados no Brasil, México e Estados Unidos.
-
-[Saiba mais](/pt/leadership-team/)
-
-### **Contato**
-
-Envie um email para wikimediaeverybook@gmail.com
-
-[LinkedIn](https://www.linkedin.com/company/everybk)
+- [Sobre a campanha](/pt/about-us/) Como começou e como funciona
+- [Eventos](/pt/events/) Como organizar um evento e registrá-lo no painel
+- [Recursos](/pt/resources/) Logotipos e guias para editar artigos sobre livros
+- [Equipe de Liderança](/pt/leadership-team/) Os voluntários no Brasil, no México e nos Estados Unidos que organizam a campanha

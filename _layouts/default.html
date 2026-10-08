@@ -19,7 +19,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
-<body>
+<body class="page-{{ page.ref }}">
   <a class="skip" href="#content">{{ t.skip }}</a>
   <header class="site-header">
     <div class="wrap header-inner">
@@ -44,6 +44,25 @@
     <h1 class="page-title">{{ page.title }}</h1>
     {%- endunless %}
     {{ content }}
+    {%- if page.ref == "leadership-team" %}
+    <ul class="team">
+      {%- for m in site.data.team.members %}
+      {%- assign d = m[lang] %}
+      <li class="member">
+        <img class="member-photo" src="{{ m.photo }}" alt="{{ m.name }}" loading="lazy">
+        <h2 class="member-name">{{ m.name }}</h2>
+        <p class="member-country">{{ d.country }}</p>
+        <p class="member-bio">{{ d.bio }}</p>
+        {%- if d.book %}
+        <p class="member-book"><span>{% if lang == "pt" %}Recomendação de livro{% else %}Book recommendation{% endif %}</span>{{ d.book }}</p>
+        {%- endif %}
+        {%- if m.wikimedia_user %}
+        <p class="member-user">{% if lang == "pt" %}Wikimedia:{% else %}Wikimedia user:{% endif %} <a href="https://meta.wikimedia.org/wiki/User:{{ m.wikimedia_user | replace: ' ', '_' }}">{{ m.wikimedia_user }}</a></p>
+        {%- endif %}
+      </li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
   </main>
 
   <footer class="site-footer">
