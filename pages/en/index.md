@@ -6,13 +6,15 @@ permalink: /
 layout: default
 ---
 
-## **2025 Events**
+## **Planning for 2027**
 
-In April 2025, we will join forces to expand and enhance the quality of open access information about books, authors, and oral histories in the Wikimedia projects. If you want to contribute by organizing or participating in an event, click the button below.
+We're planning the next #EveryBookItsReader campaign for April 2027. Details will be shared here as they come together.
 
-In 2024, the Campaign achieved incredible results on Wikipedia in various languages, as well as on Wikidata! This year, we hope to go even further to guarantee free access to quality information for everyone.
+In the meantime, you're always welcome to create and improve Wikipedia and Wikidata content about books, authors, and oral stories. Just add the hashtag #EveryBookItsReader to your edits.
 
-[find or add an event](/events/)
+For the latest news, follow us on [LinkedIn](https://www.linkedin.com/company/everybk/).
+
+[See past events](/events/)
 
 ![Ukrainian logo](/assets/uploads/2024/03/Versao_quadrado_cor_UKR_png_2024-3-208x300.png)
 
@@ -58,10 +60,4 @@ The overall campaign has been planned and organized by volunteer Wikimedians, wh
 
 Send an email to wikimediaeverybook@gmail.com
 
-[Twitter](https://twitter.com/Every_Bk)
-
 [LinkedIn](https://www.linkedin.com/company/everybk)
-
-#### **Sign up to receive updates**
-
-[Subscribe](https://docs.google.com/forms/d/e/1FAIpQLSclAVXvmHB9Tp_jHGZNUMzDJfmW2ZpveFo8T_mphuyiWfaYcQ/viewform?usp=pp_url "Subscribe")

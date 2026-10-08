@@ -6,13 +6,15 @@ permalink: /pt/
 layout: default
 ---
 
-## **Eventos 2025**
+## **Planejando 2027**
 
-Em abril de 2025, vamos unir forças para ampliar e aprimorar a qualidade das informações em acesso aberto sobre livros, autores e histórias orais nos projetos Wikimedia. Se você quer contribuir, organizando ou participando de um evento, clique no botão abaixo.
+Estamos planejando a próxima campanha #CadaLivroSeuPúblico para abril de 2027. Os detalhes serão compartilhados aqui assim que estiverem prontos.
 
-Em 2024, a campanha alcançou resultados incríveis na Wikipédia em diversos idiomas e também na Wikidata! Neste ano, esperamos ir ainda mais longe para garantir o acesso livre a informações de qualidade para todos.
+Enquanto isso, você é sempre bem-vindo(a) para criar e melhorar conteúdos sobre livros, autores e histórias orais na Wikipédia e na Wikidata. Basta adicionar a hashtag #CadaLivroSeuPúblico às suas edições.
 
-[Encontrar ou adicionar um evento](/pt/events/)
+Para as últimas novidades, siga-nos no [LinkedIn](https://www.linkedin.com/company/everybk/).
+
+[Ver eventos anteriores](/pt/events/)
 
 ![Ukrainian logo](/assets/uploads/2025/02/Versao_quadrado_cor_POR_png_2024-1.png)
 
@@ -58,10 +60,4 @@ A campanha foi planejada e organizada por wikimedistas voluntários, apaixonados
 
 Envie um email para wikimediaeverybook@gmail.com
 
-[Twitter](https://twitter.com/Every_Bk)
-
 [LinkedIn](https://www.linkedin.com/company/everybk)
-
-#### **Inscreva-se para receber atualizações**
-
-[Inscrever-se](https://docs.google.com/forms/d/e/1FAIpQLSclAVXvmHB9Tp_jHGZNUMzDJfmW2ZpveFo8T_mphuyiWfaYcQ/viewform?usp=pp_url "Subscribe")
