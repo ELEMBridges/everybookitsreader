@@ -12,6 +12,10 @@ Anyone is welcome to organize an #EveryBookItsReader event — at a library, sch
 
 The dashboard for April 2027 will be linked here once it's ready. Follow us on [LinkedIn](https://www.linkedin.com/company/everybk/) to hear when it opens.
 
+## Campaign in Brazil
+
+The team in Brazil runs #CadaLivroSeuPúblico on Portuguese Wikipedia, with its own schedule, editing contest, and in-person activities. See the [Cada Livro Seu Público 2026 page](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Edit-a-thon/Cada_Livro_Seu_P%C3%BAblico_2026) (in Portuguese).
+
 ## Past campaigns
 
 - [April 2025 campaign dashboard](https://outreachdashboard.wmflabs.org/campaigns/everybookitsreader_april_2025/overview)
