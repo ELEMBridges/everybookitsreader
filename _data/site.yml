@@ -16,7 +16,6 @@ en:
   footer_links:
     - { label: Attribution, url: /attribution/ }
     - { label: Contact Us, url: /contact-us/ }
-  grant: "This website is supported by a grant from the Oregon State University Libraries and Press Lundeen Award."
 pt:
   name: "#CadaLivroSeuPúblico"
   logo: /assets/uploads/2025/02/Versao_horizontal_cor_POR_png_2024-1.png
@@ -33,7 +32,5 @@ pt:
   footer_links:
     - { label: Licença, url: /pt/attribution/ }
     - { label: Contato, url: /pt/contact-us/ }
-  grant: "Este site é apoiado por um financiamento da Oregon State University Libraries and Press Lundeen Award."
 social:
-  - { label: Twitter, url: "https://twitter.com/Every_Bk" }
   - { label: LinkedIn, url: "https://www.linkedin.com/company/everybk/" }
