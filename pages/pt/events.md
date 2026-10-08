@@ -12,6 +12,10 @@ Qualquer pessoa pode organizar um evento #CadaLivroSeuPúblico — em uma biblio
 
 O painel de abril de 2027 será divulgado aqui assim que estiver pronto. Siga-nos no [LinkedIn](https://www.linkedin.com/company/everybk/) para saber quando abrir.
 
+## Campanha no Brasil
+
+A equipe no Brasil organiza a #CadaLivroSeuPúblico na Wikipédia em português, com programação própria, concurso de edições e atividades presenciais. Veja a [página da Cada Livro Seu Público 2026](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Edit-a-thon/Cada_Livro_Seu_P%C3%BAblico_2026).
+
 ## Campanhas anteriores
 
 - [Painel da campanha de abril de 2025](https://outreachdashboard.wmflabs.org/campaigns/everybookitsreader_april_2025/overview)
