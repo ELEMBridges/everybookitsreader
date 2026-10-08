@@ -6,8 +6,6 @@ permalink: /pt/contact-us/
 layout: default
 ---
 
-Envie um email para wikimediaeverybook@gmail.com
+A melhor forma de falar com a equipe #CadaLivroSeuPúblico é pela nossa [página no LinkedIn](https://www.linkedin.com/company/everybk/). Siga-nos lá para receber notícias e atualizações sobre a campanha, ou envie uma mensagem.
 
-Faremos o possível para responder em até 2 dias úteis.
-
-Para notícias e atualizações sobre a campanha, siga-nos no [LinkedIn](https://www.linkedin.com/company/everybk/).
+Em breve teremos novos endereços de e-mail para contato.

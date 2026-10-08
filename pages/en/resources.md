@@ -10,7 +10,7 @@ Materials for editing book-related content and for organizing events.
 
 ## Logos and graphics
 
-Logos are available on [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:EveryBookItsReader_logos). Please use the 2024 version. If you need a logo in another language, email us at wikimediaeverybook@gmail.com and we'll do our best to create one.
+Logos are available on [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:EveryBookItsReader_logos). Please use the 2024 version. If you need a logo in another language, send us a message on [LinkedIn](https://www.linkedin.com/company/everybk/) and we'll do our best to create one.
 
 ## Editing articles about books
 

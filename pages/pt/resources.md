@@ -10,7 +10,7 @@ Materiais para editar conteúdos relacionados a livros e para organizar eventos.
 
 ## Logotipos e materiais gráficos
 
-Os logotipos estão disponíveis no [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:EveryBookItsReader_logos). Por favor, use a versão de 2024. Se você precisar de um logotipo em outro idioma, escreva para wikimediaeverybook@gmail.com e faremos o possível para criá-lo.
+Os logotipos estão disponíveis no [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:EveryBookItsReader_logos). Por favor, use a versão de 2024. Se você precisar de um logotipo em outro idioma, envie uma mensagem pelo [LinkedIn](https://www.linkedin.com/company/everybk/) e faremos o possível para criá-lo.
 
 ## Edição de artigos sobre livros
 

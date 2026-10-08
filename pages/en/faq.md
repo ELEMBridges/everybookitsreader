@@ -20,7 +20,7 @@ Everyone is welcome to organize an event, usually in April, at a library, school
 
 Anyone can use the campaign logo, which is shared under a Creative Commons Attribution 2.0 license. The logo and companion materials were created by Brazilian artist Andreia Tiemi in several languages and can be [downloaded from Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:EveryBookItsReader_logos). Please use the 2024 version.
 
-If there's no logo in your language, email us and we'll do our best to make one.
+If there's no logo in your language, send us a message on [LinkedIn](https://www.linkedin.com/company/everybk/) and we'll do our best to make one.
 
 ## How can I get funding?
 

@@ -6,8 +6,6 @@ permalink: /contact-us/
 layout: default
 ---
 
-Send an email to wikimediaeverybook@gmail.com
+The best way to reach the #EveryBookItsReader team is through our [LinkedIn page](https://www.linkedin.com/company/everybk/). Follow us there for news and updates about the campaign, or send us a message.
 
-We will try our best to respond back to you within 2 working days.
-
-For news and updates about the campaign, follow us on [LinkedIn](https://www.linkedin.com/company/everybk/).
+New contact email addresses are coming soon.

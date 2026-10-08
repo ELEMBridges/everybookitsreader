@@ -20,7 +20,7 @@ Qualquer pessoa pode organizar um evento, geralmente em abril, em bibliotecas, e
 
 Qualquer pessoa pode usar o logotipo da campanha, compartilhado sob a licença Creative Commons Atribuição 2.0. O logotipo e os materiais complementares foram criados pela designer gráfica brasileira Andreia Tiemi em vários idiomas e podem ser [baixados no Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:EveryBookItsReader_logos). Por favor, use a versão de 2024.
 
-Se não houver um logotipo no seu idioma, envie-nos um e-mail e faremos o possível para criar uma versão.
+Se não houver um logotipo no seu idioma, envie-nos uma mensagem pelo [LinkedIn](https://www.linkedin.com/company/everybk/) e faremos o possível para criar uma versão.
 
 ## Como posso obter financiamento?
 
