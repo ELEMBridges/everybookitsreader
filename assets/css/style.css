@@ -107,3 +107,16 @@ img { max-width: 100%; height: auto; }
   .page-index .content > p:first-child { font-size: 1.1rem; }
   .content ol li img { max-width: 100%; }
 }
+
+/* Home photo strip */
+.content .photo-strip { list-style: none; margin: 0 0 32px; padding: 16px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; background: #f4eff9; border: 1px solid #e9e1f1; border-radius: 16px; }
+.content .photo-strip li { margin: 0; }
+.photo-strip figure { margin: 0; }
+.photo-strip a { text-decoration: none; color: inherit; display: block; }
+.photo-strip img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 10px; display: block; transition: filter .3s; }
+.photo-strip a:hover img, .photo-strip a:focus img { filter: none !important; }
+.photo-strip figcaption { margin-top: 10px; font-size: .88rem; text-align: center; }
+.photo-strip .place { font-weight: 700; color: var(--ink); }
+.photo-strip .year { color: var(--accent); font-weight: 600; }
+.photo-strip a:hover .place { text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 3px; }
+@media (max-width: 700px) { .content .photo-strip { grid-template-columns: 1fr 1fr; padding: 12px; gap: 12px; } }
