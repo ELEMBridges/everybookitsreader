@@ -1,0 +1,39 @@
+# Photo strip at the top of the home page (English and Portuguese).
+# Edit in Pages CMS under "Home photos". Photos are shown in black and white
+# and link to their Wikimedia Commons page, which credits the photographer.
+photos:
+  - image: https://upload.wikimedia.org/wikipedia/commons/8/89/Wiki_Encontros_2024_Rio_de_Janeiro_-_Instituto_de_Pesquisa_e_Mem%C3%B3ria_Pretos_Novos_06_%28cropped%29.jpg
+    link: https://commons.wikimedia.org/wiki/File:Wiki_Encontros_2024_Rio_de_Janeiro_-_Instituto_de_Pesquisa_e_Mem%C3%B3ria_Pretos_Novos_06_(cropped).jpg
+    credit: JCunha (WMB), CC BY-SA 4.0
+    year: "2024"
+    place_en: Rio de Janeiro, Brazil
+    place_pt: Rio de Janeiro, Brasil
+    adjust: grayscale(1) contrast(1.05)
+    focus: center
+
+  - image: https://upload.wikimedia.org/wikipedia/commons/e/e5/Lamu_Fort_Library_Every_Book_its_Reader_participant.jpg
+    link: https://commons.wikimedia.org/wiki/File:Lamu_Fort_Library_Every_Book_its_Reader_participant.jpg
+    credit: Siti Rashid, CC0
+    year: "2025"
+    place_en: Lamu, Kenya
+    place_pt: Lamu, Quênia
+    adjust: grayscale(1) contrast(1.08)
+    focus: center 30%
+
+  - image: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Cartea_%C8%99i_cititorul_ei_2025_07.jpg/960px-Cartea_%C8%99i_cititorul_ei_2025_07.jpg
+    link: https://commons.wikimedia.org/wiki/File:Cartea_%C8%99i_cititorul_ei_2025_07.jpg
+    credit: Elena Ancu Damian, CC BY-SA 4.0
+    year: "2025"
+    place_en: Bucharest, Romania
+    place_pt: Bucareste, Romênia
+    adjust: grayscale(1) brightness(0.92) contrast(1.1)
+    focus: center
+
+  - image: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Editation_de_art%C3%ADculos_Wiki_Biblioteca_de_la_Societ%C3%A0_Dante_Alighieri_%E2%80%93_La_Paz.jpg/960px-Editation_de_art%C3%ADculos_Wiki_Biblioteca_de_la_Societ%C3%A0_Dante_Alighieri_%E2%80%93_La_Paz.jpg
+    link: https://commons.wikimedia.org/wiki/File:Editation_de_art%C3%ADculos_Wiki_Biblioteca_de_la_Societ%C3%A0_Dante_Alighieri_%E2%80%93_La_Paz.jpg
+    credit: Jhulis, CC BY-SA 4.0
+    year: "2026"
+    place_en: La Paz, Bolivia
+    place_pt: La Paz, Bolívia
+    adjust: grayscale(1) contrast(1.05)
+    focus: center
