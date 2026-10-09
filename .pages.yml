@@ -124,3 +124,23 @@ content:
               - { name: country, label: País, type: string }
               - { name: bio, label: Biografia, type: text }
               - { name: book, label: Recomendação de livro, type: string }
+
+  - name: home-photos
+    label: Home photos / Fotos da página inicial
+    type: file
+    path: _data/home_photos.yml
+    format: yaml
+    fields:
+      - name: photos
+        label: Photos (4 work best)
+        type: object
+        list: true
+        fields:
+          - { name: image, label: "Image address (from Wikimedia Commons: right-click the photo, Copy image address)", type: string }
+          - { name: link, label: "Commons page link (credits the photographer)", type: string }
+          - { name: credit, label: "Credit (photographer, license)", type: string }
+          - { name: year, label: Year, type: string }
+          - { name: place_en, label: Place (English), type: string }
+          - { name: place_pt, label: Local (Português), type: string }
+          - { name: adjust, label: "Tone (advanced)", type: string, default: "grayscale(1)" }
+          - { name: focus, label: "Crop focus (advanced)", type: string, default: center }
