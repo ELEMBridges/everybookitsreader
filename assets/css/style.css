@@ -120,3 +120,4 @@ img { max-width: 100%; height: auto; }
 .photo-strip .year { color: var(--accent); font-weight: 600; }
 .photo-strip a:hover .place { text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 3px; }
 @media (max-width: 700px) { .content .photo-strip { grid-template-columns: 1fr 1fr; padding: 12px; gap: 12px; } }
+@media (max-width: 600px) { .content .photo-strip { display: none; } }
