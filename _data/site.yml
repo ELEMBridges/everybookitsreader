@@ -6,6 +6,7 @@ en:
   language_name: English
   skip: Skip to the content
   menu:
+    - { label: Home, url: / }
     - { label: About, url: /about-us/ }
     - { label: Leadership Team, url: /leadership-team/ }
     - { label: FAQs, url: /faq/ }
@@ -22,6 +23,7 @@ pt:
   language_name: Português do Brasil
   skip: Pular para o conteúdo
   menu:
+    - { label: Início, url: /pt/ }
     - { label: Sobre, url: /pt/about-us/ }
     - { label: Equipe de Liderança, url: /pt/leadership-team/ }
     - { label: Perguntas Frequentes, url: /pt/faq/ }
