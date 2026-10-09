@@ -43,6 +43,21 @@
     {%- unless page.ref == "index" %}
     <h1 class="page-title">{{ page.title }}</h1>
     {%- endunless %}
+    {%- if page.ref == "index" and site.data.home_photos.photos %}
+    <ul class="photo-strip">
+      {%- for ph in site.data.home_photos.photos %}
+      {%- capture place %}{% if lang == "pt" %}{{ ph.place_pt }}{% else %}{{ ph.place_en }}{% endif %}{% endcapture %}
+      <li>
+        <a href="{{ ph.link }}" target="_blank" rel="noopener" title="{% if lang == 'pt' %}Foto: {{ ph.credit }} (em preto e branco). Ver no Wikimedia Commons{% else %}Photo: {{ ph.credit }} (shown in black and white). View on Wikimedia Commons{% endif %}">
+          <figure>
+            <img src="{{ ph.image }}" alt="#EveryBookItsReader · {{ place }}, {{ ph.year }}" loading="lazy" style="filter:{{ ph.adjust | default: 'grayscale(1)' }};object-position:{{ ph.focus | default: 'center' }}">
+            <figcaption><span class="place">{{ place }}</span> <span class="year">· {{ ph.year }}</span></figcaption>
+          </figure>
+        </a>
+      </li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
     {{ content }}
     {%- if page.ref == "leadership-team" %}
     <ul class="team">
