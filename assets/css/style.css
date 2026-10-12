@@ -121,3 +121,6 @@ img { max-width: 100%; height: auto; }
 .photo-strip a:hover .place { text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 3px; }
 @media (max-width: 700px) { .content .photo-strip { grid-template-columns: 1fr 1fr; padding: 12px; gap: 12px; } }
 @media (max-width: 600px) { .content .photo-strip { display: none; } }
+
+/* Press: country flags */
+.page-media .content li img { display: inline-block; width: 1.35em; height: auto; aspect-ratio: 4 / 3; vertical-align: -0.2em; margin: 0 2px 0 0; border-radius: 2px; box-shadow: 0 0 0 1px rgba(0, 0, 0, .1); }
