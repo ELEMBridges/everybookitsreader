@@ -16,12 +16,6 @@ The [2027 campaign dashboard](https://outreachdashboard.wmflabs.org/campaigns/ev
 
 The team in Brazil runs #CadaLivroSeuPúblico on Portuguese Wikipedia, with its own schedule, editing contest, and in-person activities. See the [Cada Livro Seu Público 2026 page](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Edit-a-thon/Cada_Livro_Seu_P%C3%BAblico_2026) (in Portuguese).
 
-## Past campaigns
-
-- [April 2026 campaign dashboard](https://outreachdashboard.wmflabs.org/campaigns/everybookitsreader_april_2026/overview)
-- [April 2025 campaign dashboard](https://outreachdashboard.wmflabs.org/campaigns/everybookitsreader_april_2025/overview)
-- [April 2024 campaign dashboard](https://outreachdashboard.wmflabs.org/campaigns/everybookitsreader_april_2024/overview)
-
 ## How to add your event to the dashboard
 
 These steps use the Wikimedia Outreach Dashboard, which tracks the edits made at your event.
@@ -40,3 +34,9 @@ These steps use the Wikimedia Outreach Dashboard, which tracks the edits made at
 **Remember:** participants must join the program you create for their edits to be tracked.
 
 For tips on running an event, see the [organizing materials](https://artandfeminism.org/resources/) from Art+Feminism.
+
+## Past campaigns
+
+- [April 2026 campaign dashboard](https://outreachdashboard.wmflabs.org/campaigns/everybookitsreader_april_2026/overview)
+- [April 2025 campaign dashboard](https://outreachdashboard.wmflabs.org/campaigns/everybookitsreader_april_2025/overview)
+- [April 2024 campaign dashboard](https://outreachdashboard.wmflabs.org/campaigns/everybookitsreader_april_2024/overview)
