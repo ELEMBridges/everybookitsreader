@@ -39,5 +39,3 @@ These steps use the Wikimedia Outreach Dashboard, which tracks the edits made at
 **Remember:** participants must join the program you create for their edits to be tracked.
 
 For tips on running an event, see the [organizing materials](https://artandfeminism.org/resources/) from Art+Feminism.
-
-[![Flyer for the #EveryBookItsReader campaign at the 2024 London Book Fair](/assets/uploads/2024/03/London-Book-Fair-Flyer-724x1024.png)](https://commons.wikimedia.org/wiki/File:EveryBookItsReader_flyer_for_2024_London_Book_Fair.pdf)
