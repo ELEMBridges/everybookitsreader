@@ -40,5 +40,3 @@ Estes passos usam o Outreach Dashboard da Wikimedia, que registra as edições f
 **Lembre-se:** os participantes precisam se inscrever no programa que você criar para que suas edições sejam registradas.
 
 Para dicas sobre como organizar um evento, veja os [materiais](https://artandfeminism.org/resources/?lang=pt-br) da campanha Art+Feminism.
-
-![Folheto da campanha #EveryBookItsReader na Feira do Livro de Londres de 2024](/assets/uploads/2025/02/Copia-de-Purple-and-Pink-Technology-Flyer.png)
