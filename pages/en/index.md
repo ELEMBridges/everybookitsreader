@@ -10,7 +10,7 @@ A campaign to increase quality content about books, literary works, and oral sto
 
 ## Planning for 2027
 
-We're planning the next #EveryBookItsReader campaign for April 2027. Details will be shared here as they come together.
+We're planning the next #EveryBookItsReader campaign for April 2027. The [2027 campaign dashboard](https://outreachdashboard.wmflabs.org/campaigns/everybookitsreader_2027/overview) is ready, and the [Events page](/events/) explains how to add your event to it.
 
 In the meantime, you're always welcome to create and improve Wikipedia and Wikidata content about books, authors, and oral stories. Just add the hashtag #EveryBookItsReader to your edits.
 
