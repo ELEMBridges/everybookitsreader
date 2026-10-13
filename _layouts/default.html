@@ -33,10 +33,46 @@
     <nav class="wrap site-nav" aria-label="Menu">
       <ul>
         {%- for item in t.menu %}
+        {%- if item.children %}
+        {%- assign in_sub = item.children | where: "url", page.url | size %}
+        <li class="has-sub">
+          <button type="button" class="sub-toggle{% if in_sub > 0 %} is-current{% endif %}" aria-expanded="false">{{ item.label }}<span class="caret" aria-hidden="true"></span></button>
+          <ul class="sub">
+            {%- for sub in item.children %}
+            <li><a href="{{ sub.url }}"{% if page.url == sub.url %} aria-current="page"{% endif %}>{{ sub.label }}</a></li>
+            {%- endfor %}
+          </ul>
+        </li>
+        {%- else %}
         <li><a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.label }}</a></li>
+        {%- endif %}
         {%- endfor %}
       </ul>
     </nav>
+    <script>
+      (function () {
+        var toggles = document.querySelectorAll('.site-nav .sub-toggle');
+        function closeAll(except) {
+          toggles.forEach(function (b) { if (b !== except) b.setAttribute('aria-expanded', 'false'); });
+        }
+        toggles.forEach(function (b) {
+          b.addEventListener('click', function (e) {
+            e.stopPropagation();
+            var open = b.getAttribute('aria-expanded') === 'true';
+            closeAll(b);
+            b.setAttribute('aria-expanded', open ? 'false' : 'true');
+          });
+        });
+        document.addEventListener('click', function () { closeAll(); });
+        document.addEventListener('keydown', function (e) {
+          if (e.key === 'Escape') {
+            var openBtn = document.querySelector('.site-nav .sub-toggle[aria-expanded="true"]');
+            closeAll();
+            if (openBtn) openBtn.focus();
+          }
+        });
+      })();
+    </script>
   </header>
 
   <main id="content" class="wrap content">
