@@ -1,5 +1,5 @@
 ---
-title: "Recursos"
+title: "Kit de Ferramentas"
 lang: pt
 ref: resources
 permalink: /pt/resources/
