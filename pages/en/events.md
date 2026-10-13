@@ -25,7 +25,7 @@ The team in Brazil runs #CadaLivroSeuPúblico on Portuguese Wikipedia, with its 
 
 These steps use the Wikimedia Outreach Dashboard, which tracks the edits made at your event.
 
-1. Open the campaign dashboard.
+1. Open the [2027 campaign dashboard](https://outreachdashboard.wmflabs.org/campaigns/everybookitsreader_2027/overview).
 2. **Log in** with your Wikimedia account.
    ![The Log in link on the dashboard](/assets/uploads/2024/03/Screenshot-2024-03-18-at-9.39.46-AM.png)
 3. Select **Create Program +**.
