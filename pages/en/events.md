@@ -18,6 +18,7 @@ The team in Brazil runs #CadaLivroSeuPúblico on Portuguese Wikipedia, with its 
 
 ## Past campaigns
 
+- [April 2026 campaign dashboard](https://outreachdashboard.wmflabs.org/campaigns/everybookitsreader_april_2026/overview)
 - [April 2025 campaign dashboard](https://outreachdashboard.wmflabs.org/campaigns/everybookitsreader_april_2025/overview)
 - [April 2024 campaign dashboard](https://outreachdashboard.wmflabs.org/campaigns/everybookitsreader_april_2024/overview)
 
