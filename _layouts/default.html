@@ -125,5 +125,24 @@
       <p class="copy">© {{ site.time | date: "%Y" }} {{ t.name }}</p>
     </div>
   </footer>
+  <script>
+    // Put the "How to add your event" section (English and Portuguese) in a box.
+    (function () {
+      ['how-to-add-your-event-to-the-dashboard', 'como-adicionar-seu-evento-ao-painel'].forEach(function (id) {
+        var h = document.getElementById(id);
+        if (!h) return;
+        var box = document.createElement('div');
+        box.className = 'howto-box';
+        h.parentNode.insertBefore(box, h);
+        var node = h;
+        while (node) {
+          var next = node.nextElementSibling;
+          box.appendChild(node);
+          if (!next || next.tagName === 'H2') break;
+          node = next;
+        }
+      });
+    })();
+  </script>
 </body>
 </html>
