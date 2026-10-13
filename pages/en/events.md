@@ -10,7 +10,7 @@ Anyone is welcome to organize an #EveryBookItsReader event — at a library, sch
 
 ## 2027 campaign
 
-The dashboard for April 2027 will be linked here once it's ready. Follow us on [LinkedIn](https://www.linkedin.com/company/everybk/) to hear when it opens.
+The [2027 campaign dashboard](https://outreachdashboard.wmflabs.org/campaigns/everybookitsreader_2027/overview) is ready. See the steps below to add your event to it. Follow us on [LinkedIn](https://www.linkedin.com/company/everybk/) for news and updates.
 
 ## Campaign in Brazil
 
