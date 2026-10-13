@@ -1,5 +1,5 @@
 ---
-title: "Resources"
+title: "Toolkit"
 lang: en
 ref: resources
 permalink: /resources/
