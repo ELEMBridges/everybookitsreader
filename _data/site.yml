@@ -12,9 +12,9 @@ en:
         - { label: About the Campaign, url: /about-us/ }
         - { label: Leadership Team, url: /leadership-team/ }
         - { label: Press, url: /media/ }
-    - { label: FAQs, url: /faq/ }
     - { label: Events, url: /events/ }
     - { label: Resources, url: /resources/ }
+    - { label: FAQs, url: /faq/ }
     - { label: Contact Us, url: /contact-us/ }
   footer_links:
     - { label: Attribution, url: /attribution/ }
@@ -31,9 +31,9 @@ pt:
         - { label: Sobre a Campanha, url: /pt/about-us/ }
         - { label: Equipe de Liderança, url: /pt/leadership-team/ }
         - { label: Imprensa, url: /pt/media/ }
-    - { label: Perguntas Frequentes, url: /pt/faq/ }
     - { label: Eventos, url: /pt/events/ }
     - { label: Recursos, url: /pt/resources/ }
+    - { label: Perguntas Frequentes, url: /pt/faq/ }
     - { label: Contato, url: /pt/contact-us/ }
   footer_links:
     - { label: Licença, url: /pt/attribution/ }
