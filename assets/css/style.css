@@ -137,7 +137,7 @@ img { max-width: 100%; height: auto; }
 @media (max-width: 600px) { .content .photo-strip { display: none; } }
 
 /* Events: "How to add your event" box */
-.content .howto-box { background: #fff; border: 1px solid #e9e1f1; border-left: 5px solid var(--accent); border-radius: 14px; padding: 4px 28px 20px; margin: 40px 0; }
+.content .howto-box { background: #fff; border: 1px solid #ddd3e8; border-radius: 14px; padding: 4px 28px 20px; margin: 40px 0; }
 .content .howto-box > h2:first-child { margin-top: 20px; }
 @media (max-width: 600px) { .content .howto-box { padding: 2px 16px 14px; } }
 
