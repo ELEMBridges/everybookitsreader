@@ -58,7 +58,14 @@ content:
             list: true
             fields:
               - { name: label, type: string }
-              - { name: url, type: string }
+              - { name: url, label: "url (leave empty if the item has a dropdown)", type: string }
+              - name: children
+                label: Dropdown items (optional)
+                type: object
+                list: true
+                fields:
+                  - { name: label, type: string }
+                  - { name: url, type: string }
           - name: footer_links
             label: Footer links
             type: object
@@ -80,7 +87,14 @@ content:
             list: true
             fields:
               - { name: label, type: string }
-              - { name: url, type: string }
+              - { name: url, label: "url (leave empty if the item has a dropdown)", type: string }
+              - name: children
+                label: Dropdown items (optional)
+                type: object
+                list: true
+                fields:
+                  - { name: label, type: string }
+                  - { name: url, type: string }
           - name: footer_links
             label: Links do rodapé
             type: object
