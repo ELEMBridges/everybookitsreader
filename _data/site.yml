@@ -7,10 +7,12 @@ en:
   skip: Skip to the content
   menu:
     - { label: Home, url: / }
-    - { label: About, url: /about-us/ }
-    - { label: Leadership Team, url: /leadership-team/ }
+    - label: About
+      children:
+        - { label: About the Campaign, url: /about-us/ }
+        - { label: Leadership Team, url: /leadership-team/ }
+        - { label: Press, url: /media/ }
     - { label: FAQs, url: /faq/ }
-    - { label: Press, url: /media/ }
     - { label: Events, url: /events/ }
     - { label: Resources, url: /resources/ }
     - { label: Contact Us, url: /contact-us/ }
@@ -24,10 +26,12 @@ pt:
   skip: Pular para o conteúdo
   menu:
     - { label: Início, url: /pt/ }
-    - { label: Sobre, url: /pt/about-us/ }
-    - { label: Equipe de Liderança, url: /pt/leadership-team/ }
+    - label: Sobre
+      children:
+        - { label: Sobre a Campanha, url: /pt/about-us/ }
+        - { label: Equipe de Liderança, url: /pt/leadership-team/ }
+        - { label: Imprensa, url: /pt/media/ }
     - { label: Perguntas Frequentes, url: /pt/faq/ }
-    - { label: Imprensa, url: /pt/media/ }
     - { label: Eventos, url: /pt/events/ }
     - { label: Recursos, url: /pt/resources/ }
     - { label: Contato, url: /pt/contact-us/ }
